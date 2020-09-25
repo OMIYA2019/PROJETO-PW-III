@@ -1,0 +1,9 @@
+
+@{
+    ViewBag.Title = "semAcesso";
+    Layout = "";
+}
+
+<h2>Acesso Negado</h2>
+
+@ViewBag.message

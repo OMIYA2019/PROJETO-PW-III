@@ -1,0 +1,17 @@
+
+@{
+    ViewBag.Title = "principal";
+    Layout = "~/Views/Shared/_LayoutPrincipal.cshtml";
+}
+
+
+Bem-vindo @ViewBag.usuarioLog
+
+
+<h2>principal</h2>
+
+<br />
+@Html.ActionLink("Cadastro do Paciente", "cadPaciente", "Paciente")
+
+<br />
+@Html.ActionLink("Logout", "Logout","Home")
