@@ -1,0 +1,316 @@
+D:\projetoLogin\projetoLogin\bin\projetoLogin.dll.config
+D:\projetoLogin\projetoLogin\bin\projetoLogin.dll
+D:\projetoLogin\projetoLogin\bin\projetoLogin.pdb
+D:\projetoLogin\projetoLogin\bin\roslyn\csc.exe
+D:\projetoLogin\projetoLogin\bin\roslyn\csc.exe.config
+D:\projetoLogin\projetoLogin\bin\roslyn\csc.rsp
+D:\projetoLogin\projetoLogin\bin\roslyn\csi.exe
+D:\projetoLogin\projetoLogin\bin\roslyn\csi.exe.config
+D:\projetoLogin\projetoLogin\bin\roslyn\csi.rsp
+D:\projetoLogin\projetoLogin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\projetoLogin\projetoLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\projetoLogin\projetoLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\projetoLogin\projetoLogin\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\projetoLogin\projetoLogin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\projetoLogin\projetoLogin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\projetoLogin\projetoLogin\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\projetoLogin\projetoLogin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\projetoLogin\projetoLogin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\projetoLogin\projetoLogin\bin\roslyn\Microsoft.Managed.Core.targets
+D:\projetoLogin\projetoLogin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\projetoLogin\projetoLogin\bin\roslyn\System.AppContext.dll
+D:\projetoLogin\projetoLogin\bin\roslyn\System.Collections.Immutable.dll
+D:\projetoLogin\projetoLogin\bin\roslyn\System.Console.dll
+D:\projetoLogin\projetoLogin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\projetoLogin\projetoLogin\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\projetoLogin\projetoLogin\bin\roslyn\System.IO.Compression.dll
+D:\projetoLogin\projetoLogin\bin\roslyn\System.IO.FileSystem.dll
+D:\projetoLogin\projetoLogin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\projetoLogin\projetoLogin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\projetoLogin\projetoLogin\bin\roslyn\System.IO.Pipes.dll
+D:\projetoLogin\projetoLogin\bin\roslyn\System.Reflection.Metadata.dll
+D:\projetoLogin\projetoLogin\bin\roslyn\System.Security.AccessControl.dll
+D:\projetoLogin\projetoLogin\bin\roslyn\System.Security.Claims.dll
+D:\projetoLogin\projetoLogin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\projetoLogin\projetoLogin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\projetoLogin\projetoLogin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\projetoLogin\projetoLogin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\projetoLogin\projetoLogin\bin\roslyn\System.Security.Principal.Windows.dll
+D:\projetoLogin\projetoLogin\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\projetoLogin\projetoLogin\bin\roslyn\System.ValueTuple.dll
+D:\projetoLogin\projetoLogin\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\projetoLogin\projetoLogin\bin\roslyn\System.Xml.XmlDocument.dll
+D:\projetoLogin\projetoLogin\bin\roslyn\System.Xml.XPath.dll
+D:\projetoLogin\projetoLogin\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\projetoLogin\projetoLogin\bin\roslyn\vbc.exe
+D:\projetoLogin\projetoLogin\bin\roslyn\vbc.exe.config
+D:\projetoLogin\projetoLogin\bin\roslyn\vbc.rsp
+D:\projetoLogin\projetoLogin\bin\roslyn\VBCSCompiler.exe
+D:\projetoLogin\projetoLogin\bin\roslyn\VBCSCompiler.exe.config
+D:\projetoLogin\projetoLogin\bin\Antlr3.Runtime.dll
+D:\projetoLogin\projetoLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\projetoLogin\projetoLogin\bin\Microsoft.Web.Infrastructure.dll
+D:\projetoLogin\projetoLogin\bin\MySql.Data.dll
+D:\projetoLogin\projetoLogin\bin\Newtonsoft.Json.dll
+D:\projetoLogin\projetoLogin\bin\System.Web.Helpers.dll
+D:\projetoLogin\projetoLogin\bin\System.Web.Mvc.dll
+D:\projetoLogin\projetoLogin\bin\System.Web.Optimization.dll
+D:\projetoLogin\projetoLogin\bin\System.Web.Razor.dll
+D:\projetoLogin\projetoLogin\bin\System.Web.WebPages.Deployment.dll
+D:\projetoLogin\projetoLogin\bin\System.Web.WebPages.dll
+D:\projetoLogin\projetoLogin\bin\System.Web.WebPages.Razor.dll
+D:\projetoLogin\projetoLogin\bin\WebGrease.dll
+D:\projetoLogin\projetoLogin\bin\Google.Protobuf.dll
+D:\projetoLogin\projetoLogin\bin\MySql.Data.xml
+D:\projetoLogin\projetoLogin\bin\System.Web.Helpers.xml
+D:\projetoLogin\projetoLogin\bin\System.Web.Mvc.xml
+D:\projetoLogin\projetoLogin\bin\System.Web.Optimization.xml
+D:\projetoLogin\projetoLogin\bin\System.Web.Razor.xml
+D:\projetoLogin\projetoLogin\bin\System.Web.WebPages.xml
+D:\projetoLogin\projetoLogin\bin\System.Web.WebPages.Deployment.xml
+D:\projetoLogin\projetoLogin\bin\System.Web.WebPages.Razor.xml
+D:\projetoLogin\projetoLogin\bin\Newtonsoft.Json.xml
+D:\projetoLogin\projetoLogin\bin\Antlr3.Runtime.pdb
+D:\projetoLogin\projetoLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\projetoLogin\projetoLogin\obj\Debug\projetoLogin.csprojAssemblyReference.cache
+D:\projetoLogin\projetoLogin\obj\Debug\projetoLogin.csproj.CoreCompileInputs.cache
+D:\projetoLogin\projetoLogin\obj\Debug\projetoLogin.csproj.CopyComplete
+D:\projetoLogin\projetoLogin\obj\Debug\projetoLogin.dll
+D:\projetoLogin\projetoLogin\obj\Debug\projetoLogin.pdb
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\obj\Debug\projetoLogin.csprojAssemblyReference.cache
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\obj\Debug\projetoLogin.csproj.CoreCompileInputs.cache
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\obj\Debug\projetoLogin.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\obj\Debug\projetoLogin.pdb
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\projetoLogin.dll.config
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\projetoLogin.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\projetoLogin.pdb
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\roslyn\csc.exe
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\roslyn\csc.exe.config
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\roslyn\csc.rsp
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\roslyn\csi.exe
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\roslyn\csi.exe.config
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\roslyn\csi.rsp
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\roslyn\Microsoft.Managed.Core.targets
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\roslyn\System.AppContext.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\roslyn\System.Collections.Immutable.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\roslyn\System.Console.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\roslyn\System.IO.Compression.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\roslyn\System.IO.FileSystem.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\roslyn\System.IO.Pipes.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\roslyn\System.Reflection.Metadata.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\roslyn\System.Security.AccessControl.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\roslyn\System.Security.Claims.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\roslyn\System.Security.Principal.Windows.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\roslyn\System.ValueTuple.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\roslyn\System.Xml.XmlDocument.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\roslyn\System.Xml.XPath.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\roslyn\vbc.exe
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\roslyn\vbc.exe.config
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\roslyn\vbc.rsp
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\roslyn\VBCSCompiler.exe
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\roslyn\VBCSCompiler.exe.config
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\Antlr3.Runtime.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\Microsoft.Web.Infrastructure.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\MySql.Data.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\Newtonsoft.Json.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\System.Web.Helpers.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\System.Web.Mvc.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\System.Web.Optimization.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\System.Web.Razor.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\System.Web.WebPages.Deployment.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\System.Web.WebPages.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\System.Web.WebPages.Razor.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\WebGrease.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\Google.Protobuf.dll
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\MySql.Data.xml
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\System.Web.Helpers.xml
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\System.Web.Mvc.xml
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\System.Web.Optimization.xml
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\System.Web.Razor.xml
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\System.Web.WebPages.xml
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\System.Web.WebPages.Deployment.xml
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\System.Web.WebPages.Razor.xml
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\Newtonsoft.Json.xml
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\Antlr3.Runtime.pdb
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\atividade pw3-03-09-2020\projetoLogin\projetoLogin\obj\Debug\projetoLogin.csproj.CopyComplete
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\projetoLogin.dll.config
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\projetoLogin.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\projetoLogin.pdb
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\roslyn\csc.exe
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\roslyn\csc.exe.config
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\roslyn\csc.rsp
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\roslyn\csi.exe
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\roslyn\csi.exe.config
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\roslyn\csi.rsp
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\roslyn\Microsoft.Managed.Core.targets
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\roslyn\System.AppContext.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\roslyn\System.Collections.Immutable.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\roslyn\System.Console.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\roslyn\System.IO.Compression.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\roslyn\System.IO.FileSystem.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\roslyn\System.IO.Pipes.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\roslyn\System.Reflection.Metadata.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\roslyn\System.Security.AccessControl.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\roslyn\System.Security.Claims.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\roslyn\System.Security.Principal.Windows.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\roslyn\System.ValueTuple.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\roslyn\System.Xml.XmlDocument.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\roslyn\System.Xml.XPath.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\roslyn\vbc.exe
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\roslyn\vbc.exe.config
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\roslyn\vbc.rsp
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\roslyn\VBCSCompiler.exe
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\roslyn\VBCSCompiler.exe.config
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\Antlr3.Runtime.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\Microsoft.Web.Infrastructure.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\MySql.Data.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\Newtonsoft.Json.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\System.Web.Helpers.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\System.Web.Mvc.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\System.Web.Optimization.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\System.Web.Razor.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\System.Web.WebPages.Deployment.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\System.Web.WebPages.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\System.Web.WebPages.Razor.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\WebGrease.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\Google.Protobuf.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\MySql.Data.xml
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\System.Web.Helpers.xml
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\System.Web.Mvc.xml
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\System.Web.Optimization.xml
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\System.Web.Razor.xml
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\System.Web.WebPages.xml
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\System.Web.WebPages.Deployment.xml
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\System.Web.WebPages.Razor.xml
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\Newtonsoft.Json.xml
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\Antlr3.Runtime.pdb
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\obj\Debug\projetoLogin.csprojAssemblyReference.cache
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\obj\Debug\projetoLogin.csproj.CoreCompileInputs.cache
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\obj\Debug\projetoLogin.csproj.CopyComplete
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\obj\Debug\projetoLogin.dll
+D:\atividade pw3-10-09-2020\PROJETO_LOGIN\projetoLogin\projetoLogin\obj\Debug\projetoLogin.pdb
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\projetoLogin.dll.config
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\projetoLogin.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\projetoLogin.pdb
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\roslyn\csc.exe
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\roslyn\csc.exe.config
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\roslyn\csc.rsp
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\roslyn\csi.exe
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\roslyn\csi.exe.config
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\roslyn\csi.rsp
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\roslyn\Microsoft.Managed.Core.targets
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\roslyn\System.AppContext.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\roslyn\System.Collections.Immutable.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\roslyn\System.Console.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\roslyn\System.IO.Compression.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\roslyn\System.IO.FileSystem.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\roslyn\System.IO.Pipes.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\roslyn\System.Security.AccessControl.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\roslyn\System.Security.Claims.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\roslyn\System.Security.Principal.Windows.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\roslyn\System.ValueTuple.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\roslyn\System.Xml.XmlDocument.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\roslyn\System.Xml.XPath.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\roslyn\vbc.exe
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\roslyn\vbc.exe.config
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\roslyn\vbc.rsp
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\roslyn\VBCSCompiler.exe
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\roslyn\VBCSCompiler.exe.config
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\Antlr3.Runtime.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\Microsoft.Web.Infrastructure.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\MySql.Data.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\Newtonsoft.Json.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\System.Web.Helpers.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\System.Web.Mvc.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\System.Web.Optimization.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\System.Web.Razor.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\System.Web.WebPages.Deployment.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\System.Web.WebPages.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\System.Web.WebPages.Razor.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\WebGrease.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\Google.Protobuf.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\MySql.Data.xml
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\System.Web.Helpers.xml
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\System.Web.Mvc.xml
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\System.Web.Optimization.xml
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\System.Web.Razor.xml
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\System.Web.WebPages.xml
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\System.Web.WebPages.Deployment.xml
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\System.Web.WebPages.Razor.xml
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\Newtonsoft.Json.xml
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\Antlr3.Runtime.pdb
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\obj\Debug\projetoLogin.csprojAssemblyReference.cache
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\obj\Debug\projetoLogin.csproj.CoreCompileInputs.cache
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\obj\Debug\projetoLogin.csproj.CopyComplete
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\obj\Debug\projetoLogin.dll
+D:\PROGRAMAÇÃO WEB III\AULA DO DIA 03-09_ProjetoLogin\projetoLogin\projetoLogin\obj\Debug\projetoLogin.pdb
