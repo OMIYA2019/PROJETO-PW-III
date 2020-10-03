@@ -177,12 +177,14 @@
     <Content Include="Views\Shared\_LayoutPrincipal.cshtml" />
     <Content Include="Views\Home\Logout.cshtml" />
     <Content Include="Views\Home\semAcesso.cshtml" />
+    <Content Include="Views\Home\cadLogin.cshtml" />
+    <Content Include="Views\Paciente\cadPaciente.cshtml" />
+    <Content Include="Views\Paciente\confcadPaciente.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Views\Atend\" />
     <Folder Include="Views\Dentista\" />
-    <Folder Include="Views\Paciente\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />

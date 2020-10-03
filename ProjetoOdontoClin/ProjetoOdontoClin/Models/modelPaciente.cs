@@ -11,7 +11,7 @@ namespace ProjetoOdontoClin.Models
 
         public string NomePac { get; set; }
 
-        public string Telpac { get; set; }
+        public string TelPac { get; set; }
 
     }
 }

@@ -72,6 +72,15 @@ namespace ProjetoOdontoClin.Controllers
                 }
                 else
                 {
+                    List<string> tipos = new List<string>();
+                    tipos.Add("1");
+          
+                    tipos.Add("2");
+
+
+
+                    ViewBag.tiposUsu = new SelectList(tipos);
+
                     return View();
                 }
             }
@@ -80,11 +89,17 @@ namespace ProjetoOdontoClin.Controllers
         [HttpPost]
         public ActionResult cadLogin(modelLogin lg)
         {
+            List<string> tipos = new List<string>();
+            tipos.Add("1");
+            tipos.Add("2");
+            ViewBag.tiposUsu = new SelectList(tipos); 
             if (lg.senha == lg.confSenha)
             {
+                lg.tipo = Request["tiposUsu"];
                 acLg.inserirLogin(lg);
                 ViewBag.confCadastro = "Cadastro realizado com sucesso";
-                return RedirectToAction("principal", "Home");
+                return View();
+                // return RedirectToAction("principal", "Home");
             }
             else
             {
