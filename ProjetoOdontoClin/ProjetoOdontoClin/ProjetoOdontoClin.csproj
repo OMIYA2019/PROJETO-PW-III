@@ -180,11 +180,12 @@
     <Content Include="Views\Home\cadLogin.cshtml" />
     <Content Include="Views\Paciente\cadPaciente.cshtml" />
     <Content Include="Views\Paciente\confcadPaciente.cshtml" />
+    <Content Include="Views\Dentista\cadDentista.cshtml" />
+    <Content Include="Views\Dentista\confCadDentista.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Views\Atend\" />
-    <Folder Include="Views\Dentista\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />

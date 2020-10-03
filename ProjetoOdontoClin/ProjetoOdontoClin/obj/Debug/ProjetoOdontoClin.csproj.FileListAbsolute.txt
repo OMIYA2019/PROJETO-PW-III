@@ -155,3 +155,4 @@ D:\A_GitHubProgram\PROJETO PW-III\ProjetoOdontoClin\ProjetoOdontoClin\obj\Debug\
 D:\A_GitHubProgram\PROJETO PW-III\ProjetoOdontoClin\ProjetoOdontoClin\obj\Debug\ProjetoOdontoClin.csproj.CopyComplete
 D:\A_GitHubProgram\PROJETO PW-III\ProjetoOdontoClin\ProjetoOdontoClin\obj\Debug\ProjetoOdontoClin.dll
 D:\A_GitHubProgram\PROJETO PW-III\ProjetoOdontoClin\ProjetoOdontoClin\obj\Debug\ProjetoOdontoClin.pdb
+D:\A_GitHubProgram\PROJETO PW-III\ProjetoOdontoClin\ProjetoOdontoClin\obj\Debug\ProjetoOdontoClin.csprojAssemblyReference.cache

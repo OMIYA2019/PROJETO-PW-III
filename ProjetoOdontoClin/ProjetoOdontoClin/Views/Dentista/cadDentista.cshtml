@@ -1,0 +1,67 @@
+﻿@model ProjetoOdontoClin.Models.modelDentista
+@{
+    ViewBag.Title = "cadDentista";
+    Layout = "";
+}
+
+<h2>Cadastro de Dentista</h2>
+@using (Html.BeginForm("confCadDentista", "Dentista", FormMethod.Post))
+{
+    <div>
+
+        @Html.EditorFor(x => x.CodDentista, new
+
+   {
+
+       htmlAttributes = new { id = "txtCodDentista", name = "txtCodDentista", type = "text", @class = "form-control", placeholder = "Digite o Código do Dentista", required = "required", maxlength = "30" }
+   })
+
+        @Html.ValidationMessageFor(x => x.CodDentista, "", new { @class = "text-danger" })
+    </div>
+
+
+    <div>
+
+        @Html.EditorFor(x => x.NomeDentista, new
+
+   {
+
+       htmlAttributes = new { id = "txtNomeDentista", name = "txtNomeDentista", type = "text", @class = "form-control", placeholder = "Digite o Nome do Dentista", required = "required", maxlength = "30" }
+   })
+
+        @Html.ValidationMessageFor(x => x.NomeDentista, "", new { @class = "text-danger" })
+    </div>
+
+
+    <div>
+
+        @Html.EditorFor(x => x.TelDentista, new
+
+   {
+
+       htmlAttributes = new { id = "txtTelDentista", name = "txtTelDentista", type = "text", @class = "form-control", placeholder = "Digite o Telefone do Dentista", required = "required", maxlength = "30" }
+   })
+
+        @Html.ValidationMessageFor(x => x.TelDentista, "", new { @class = "text-danger" })
+    </div>
+
+
+    <div>
+
+        @Html.EditorFor(x => x.EmailDentista, new
+
+   {
+
+       htmlAttributes = new { id = "txtEmailDentista", name = "txtEmailDentista", type = "text", @class = "form-control", placeholder = "Digite o Email do Dentista", required = "required", maxlength = "30" }
+   })
+
+        @Html.ValidationMessageFor(x => x.EmailDentista, "", new { @class = "text-danger" })
+    </div>
+
+
+
+    <br /> <input type="submit" value="Cadastrar"><br />
+
+
+
+}
