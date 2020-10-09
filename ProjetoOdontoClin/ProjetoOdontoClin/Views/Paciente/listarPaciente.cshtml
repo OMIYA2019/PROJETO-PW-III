@@ -1,0 +1,57 @@
+﻿
+@model IEnumerable<ProjetoOdontoClin.Models.modelPaciente>
+
+
+
+@{
+    ViewBag.Title = "listarPaciente";
+    Layout = "";
+}
+
+<h2>listarPaciente</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CodPac)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NomePac)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TelPac)
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CodPac)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NomePac)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TelPac)
+            </td>
+
+            <td>
+                @Html.ActionLink("Atualizar", "editarPaciente", new { id = item.CodPac }) |
+                @Html.ActionLink("Excluir", "excluirPaciente", new { id = item.CodPac }, new { onclick = "return confirm('Deseja realmente excluir?');" })
+            </td>
+
+
+        </tr>
+    }
+
+
+
+
+
+
+
+
+
+</table>
+

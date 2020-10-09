@@ -2,6 +2,7 @@
 using ProjetoOdontoClin.Models;
 using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Web;
 
@@ -21,6 +22,55 @@ namespace ProjetoOdontoClin.Dados
 
             cmd.ExecuteNonQuery();
             con.MyDesconectarBD();
+        }
+
+        public DataTable selecionarLogin()
+        {
+            MySqlCommand cmd = new MySqlCommand("select * from tbLogin", con.MyConectarBD());
+            MySqlDataAdapter da = new MySqlDataAdapter(cmd);
+            DataTable login = new DataTable();
+            da.Fill(login);
+            con.MyDesconectarBD();
+            return login;
+        }
+
+
+        public DataTable selecionarBuscaLogin(modelLogin cm)
+        {
+            MySqlCommand cmd = new MySqlCommand("select * from tbLogin where usuario=@usuario", con.MyConectarBD());
+
+            cmd.Parameters.Add("@usuario", MySqlDbType.VarChar).Value = cm.usuario;
+
+            MySqlDataAdapter da = new MySqlDataAdapter(cmd);
+            DataTable Login = new DataTable();
+            da.Fill(Login);
+            con.MyDesconectarBD();
+            return Login;
+        }
+
+
+        public List<modelLogin> BuscarLogin()
+        {
+            List<modelLogin> Loginlist = new List<modelLogin>();
+
+            MySqlCommand cmd = new MySqlCommand("select * from tbLogin", con.MyConectarBD());
+            MySqlDataAdapter sd = new MySqlDataAdapter(cmd);
+            DataTable dt = new DataTable();
+
+            sd.Fill(dt);
+            con.MyDesconectarBD();
+
+            foreach (DataRow dr in dt.Rows)
+            {
+                Loginlist.Add(
+                    new modelLogin
+                    {
+                        usuario = Convert.ToString(dr["usuario"]),
+                        senha = Convert.ToString(dr["senha"]),
+                        tipo = Convert.ToString(dr["tipo"])   
+                    });
+            }
+            return Loginlist;
         }
 
 

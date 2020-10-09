@@ -1,0 +1,31 @@
+﻿@model ProjetoOdontoClin.Models.modelDentista
+@{
+    ViewBag.Title = "consBuscaDentista";
+    Layout = "";
+}
+<h2>consBuscaDentista</h2>
+
+@using (Html.BeginForm("consBuscaDentista", "Dentista", FormMethod.Post))
+{
+
+    <div>
+
+        Código do Dentista
+        @Html.EditorFor(x => x.CodDentista, new
+
+    {
+
+       htmlAttributes = new { id = "txtCod", name = "txtCod", type = "text", @class = "form-control", placeholder = "Digite o nome do dentista", required = "required", maxlength = "30" }
+    })
+
+        @Html.ValidationMessageFor(x => x.CodDentista, "", new { @class = "text-danger" })
+
+    </div>
+
+    <br /> <input type="submit" value="Buscar"><br />
+
+}
+
+
+@Html.Raw(@ViewBag.GridViewString)
+

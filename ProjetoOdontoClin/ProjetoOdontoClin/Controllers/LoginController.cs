@@ -11,41 +11,38 @@ using System.Web.UI.WebControls;
 
 namespace ProjetoOdontoClin.Controllers
 {
-    public class PacienteController : Controller
+    public class LoginController : Controller
     {
-        // GET: Paciente
+        // GET: Login
         public ActionResult Index()
         {
             return View();
         }
 
-        acoesPaciente ac = new acoesPaciente();
+        public ActionResult listarLogin()
+        {
+            ModelState.Clear();
+            return View(ac.BuscarLogin());
+        }
 
-        public ActionResult cadPaciente()
+        public ActionResult cadLogin()
         {
             return View();
         }
+        acoesLogin ac = new acoesLogin();
 
-        public ActionResult listarPaciente()
-        {
-            ModelState.Clear();
-            return View(ac.BuscarPac());
-        }
-
-
-
-        public ActionResult confCadPaciente(modelPaciente m)
+        public ActionResult confCadLogin(modelLogin m)
         {
 
-            ac.inserirPaciente(m);
+            ac.inserirLogin(m);
             ViewBag.mensagem = "Cadastro Realizado com sucesso";
             return View();
         }
 
-        public ActionResult consPaciente()
+        public ActionResult consLogin()
         {
             GridView dgv = new GridView(); // Instância para a tabela 
-            dgv.DataSource = ac.selecionarPaciente(); //Atribuir ao grid o resultado da consulta 
+            dgv.DataSource = ac.selecionarLogin(); //Atribuir ao grid o resultado da consulta 
             dgv.DataBind(); //Confirmação do Grid 
             StringWriter sw = new StringWriter(); //Comando para construção do Grid na tela 
             HtmlTextWriter htw = new HtmlTextWriter(sw); //Comando para construção do Grid na tela 
@@ -54,10 +51,10 @@ namespace ProjetoOdontoClin.Controllers
             return View();
         }
 
-        public ActionResult consBuscaPaciente()
+        public ActionResult consBuscaLogin()
         {
             GridView dgv = new GridView(); // Instância para a tabela 
-            dgv.DataSource = ac.selecionarPaciente(); //Atribuir ao grid o resultado da consulta 
+            dgv.DataSource = ac.selecionarLogin(); //Atribuir ao grid o resultado da consulta 
             dgv.DataBind(); //Confirmação do Grid 
             StringWriter sw = new StringWriter(); //Comando para construção do Grid na tela 
             HtmlTextWriter htw = new HtmlTextWriter(sw); //Comando para construção do Grid na tela 
@@ -67,10 +64,10 @@ namespace ProjetoOdontoClin.Controllers
         }
 
         [HttpPost]
-        public ActionResult consBuscaPaciente(modelPaciente m)
+        public ActionResult consBuscaLogin(modelLogin m)
         {
             GridView dgv = new GridView(); // Instância para a tabela 
-            dgv.DataSource = ac.selecionarBuscaPaciente(m); //Atribuir ao grid o resultado da consulta 
+            dgv.DataSource = ac.selecionarBuscaLogin(m); //Atribuir ao grid o resultado da consulta 
             dgv.DataBind(); //Confirmação do Grid 
             StringWriter sw = new StringWriter(); //Comando para construção do Grid na tela 
             HtmlTextWriter htw = new HtmlTextWriter(sw); //Comando para construção do Grid na tela 
@@ -78,7 +75,6 @@ namespace ProjetoOdontoClin.Controllers
             ViewBag.GridViewString = sw.ToString(); //Atribuição para a construção do Grid na tela 
             return View();
         }
-
 
 
     }

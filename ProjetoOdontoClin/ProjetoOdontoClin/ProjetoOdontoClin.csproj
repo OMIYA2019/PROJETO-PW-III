@@ -124,6 +124,7 @@
     <Compile Include="Controllers\AtendController.cs" />
     <Compile Include="Controllers\DentistaController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\LoginController.cs" />
     <Compile Include="Controllers\PacienteController.cs" />
     <Compile Include="Dados\acoesAtendimento.cs" />
     <Compile Include="Dados\acoesDentista.cs" />
@@ -182,6 +183,17 @@
     <Content Include="Views\Paciente\confcadPaciente.cshtml" />
     <Content Include="Views\Dentista\cadDentista.cshtml" />
     <Content Include="Views\Dentista\confCadDentista.cshtml" />
+    <Content Include="Views\Login\cadLogin.cshtml" />
+    <Content Include="Views\Login\confCadLogin.cshtml" />
+    <Content Include="Views\Paciente\consPaciente.cshtml" />
+    <Content Include="Views\Dentista\consDentista.cshtml" />
+    <Content Include="Views\Login\consLogin.cshtml" />
+    <Content Include="Views\Paciente\consBuscaPaciente.cshtml" />
+    <Content Include="Views\Login\consBuscaLogin.cshtml" />
+    <Content Include="Views\Dentista\consBuscaDentista.cshtml" />
+    <Content Include="Views\Paciente\listarPaciente.cshtml" />
+    <Content Include="Views\Login\listarLogin.cshtml" />
+    <Content Include="Views\Dentista\listarDentista.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
